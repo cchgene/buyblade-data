@@ -1,0 +1,7 @@
+{
+  "latestCsvUrl": "https://raw.githubusercontent.com/cchgene/buyblade-data/main/data/latest.csv",
+  "historyCsvUrls": [
+    "https://raw.githubusercontent.com/cchgene/buyblade-data/main/data/history-2026-08.csv"
+  ],
+  "isDemoData": true
+}
