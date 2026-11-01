@@ -3,7 +3,8 @@
   "historyCsvUrls": [
     "https://raw.githubusercontent.com/cchgene/buyblade-data/main/data/history-2026-08.csv",
     "https://raw.githubusercontent.com/cchgene/buyblade-data/main/data/history-2026-09.csv",
-    "https://raw.githubusercontent.com/cchgene/buyblade-data/main/data/history-2026-10.csv"
+    "https://raw.githubusercontent.com/cchgene/buyblade-data/main/data/history-2026-10.csv",
+    "https://raw.githubusercontent.com/cchgene/buyblade-data/main/data/history-2026-11.csv"
   ],
   "isDemoData": false
 }
